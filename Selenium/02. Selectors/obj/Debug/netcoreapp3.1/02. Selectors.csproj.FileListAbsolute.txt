@@ -1,0 +1,17 @@
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.exe
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.deps.json
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.dll
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\02. Selectors.pdb
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.csproj.CopyComplete
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.dll
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.pdb
+C:\Users\k2\Desktop\Lessons\SLS\01. Intro\02. Selectors\obj\Debug\netcoreapp3.1\02. Selectors.genruntimeconfig.cache
