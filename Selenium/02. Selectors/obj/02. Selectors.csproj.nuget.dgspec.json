@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\02. Selectors\\02. Selectors.csproj": {}
+    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\02. Selectors\\02. Selectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\02. Selectors\\02. Selectors.csproj": {
+    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\02. Selectors\\02. Selectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\02. Selectors\\02. Selectors.csproj",
+        "projectUniqueName": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\02. Selectors\\02. Selectors.csproj",
         "projectName": "02. Selectors",
-        "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\02. Selectors\\02. Selectors.csproj",
+        "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\02. Selectors\\02. Selectors.csproj",
         "packagesPath": "C:\\Users\\k2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\02. Selectors\\obj\\",
+        "outputPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\02. Selectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

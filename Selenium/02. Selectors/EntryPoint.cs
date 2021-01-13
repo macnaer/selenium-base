@@ -13,10 +13,15 @@ class EntryPoint
         driver.Navigate().GoToUrl("http://rutracker.org");
 
         IWebElement loginElement;
+        IWebElement enter;
+        //IWebElement xpathElement = driver.FindElement(By.XPath("/html/body/div[4]/div[1]/div[2]/table/tbody/tr/td[2]/div/div[2]/div[2]/table/tbody/tr/td[1]/div[9]/h3/a"));
+        //Console.WriteLine("xpathElement ", xpathElement);
 
         try
         {
             loginElement = driver.FindElement(By.Id("top-login-uname"));
+            enter = driver.FindElement(By.LinkText("Вход"));
+            enter.Click();
             if (loginElement.Displayed)
             {
                 WriteGreen("Login element is visible: True");

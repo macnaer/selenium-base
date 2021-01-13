@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qZpShlZR4r+Gc38+QZHYH7NS7Id6ov20QbpStYPlun1etBp8QNNBSUMHaL/wsC4D8ZmKZHwtwTfo0mLwkMbEQ==",
+  "dgSpecHash": "k5XcMZU/zGXbR3UG2kErhUYT61U8JKS3TVBMSm6h+Ozid8jdPH78iNRX+9XJ0qGTOeev15JAmka8vFSIxIvAkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\01. Intro.csproj",
+  "projectFilePath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\01. Intro.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

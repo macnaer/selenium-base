@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\01. Intro.csproj": {}
+    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\01. Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\01. Intro.csproj": {
+    "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\01. Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\01. Intro.csproj",
+        "projectUniqueName": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\01. Intro.csproj",
         "projectName": "01. Intro",
-        "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\01. Intro.csproj",
+        "projectPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\01. Intro.csproj",
         "packagesPath": "C:\\Users\\k2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\01. Intro\\01. Intro\\obj\\",
+        "outputPath": "C:\\Users\\k2\\Desktop\\Lessons\\SLS\\Selenium\\01. Intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
