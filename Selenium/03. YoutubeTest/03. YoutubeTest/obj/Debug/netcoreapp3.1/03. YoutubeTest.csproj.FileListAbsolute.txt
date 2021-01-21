@@ -1,0 +1,17 @@
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.exe
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.deps.json
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.runtimeconfig.json
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.runtimeconfig.dev.json
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.dll
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\03. YoutubeTest.pdb
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.csprojAssemblyReference.cache
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.AssemblyInfoInputs.cache
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.AssemblyInfo.cs
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.csproj.CoreCompileInputs.cache
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.csproj.CopyComplete
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.dll
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.pdb
+C:\Users\k2\Desktop\Lessons\SLS\Selenium\03. YoutubeTest\03. YoutubeTest\obj\Debug\netcoreapp3.1\03. YoutubeTest.genruntimeconfig.cache
